@@ -4,8 +4,8 @@
 //  Found in: Supabase Dashboard → Project Settings → API
 // ============================================================
 
-const SUPABASE_URL = 'YOUR_SUPABASE_URL';        // e.g. https://xyzabc.supabase.co
-const SUPABASE_ANON_KEY = 'YOUR_SUPABASE_ANON_KEY'; // starts with "eyJ..."
+const SUPABASE_URL = 'https://hhtgbhacspqbctnvuoab.supabase.co';        // e.g. https://xyzabc.supabase.co
+const SUPABASE_ANON_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhodGdiaGFjc3BxYmN0bnZ1b2FiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ5ODE3MzYsImV4cCI6MjA5MDU1NzczNn0.aIZhl23t97iKCZBeLSrN7l2GNpIvH8iVU2jq9t-5qEg'; // starts with "eyJ..."
 
 const supabase = window.supabase.createClient(https://hhtgbhacspqbctnvuoab.supabase.co, eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhodGdiaGFjc3BxYmN0bnZ1b2FiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ5ODE3MzYsImV4cCI6MjA5MDU1NzczNn0.aIZhl23t97iKCZBeLSrN7l2GNpIvH8iVU2jq9t-5qEg);
 
